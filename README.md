@@ -19,7 +19,7 @@ Hi, I'm Daniel Santiago Avila Ramirez, a Full Stack Developer with 1 year of exp
 # 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniels.avilar02@gmail.co,)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-santiago-avila-ramírez-763031385)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santiago-avila-ram%C3%ADrez-763031385/)
 
 
 
