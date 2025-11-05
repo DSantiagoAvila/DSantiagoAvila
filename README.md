@@ -30,11 +30,6 @@ Hi, I'm Daniel Santiago Avila Ramirez, a Full Stack Developer with 1 year of exp
 
 
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DSantiagoAvila&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DSantiagoAvila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
