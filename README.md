@@ -29,15 +29,14 @@ Hi, I'm Daniel Santiago Avila Ramirez, a Full Stack Developer with 1 year of exp
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=DSantiagoAvila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=DSantiagoAvila&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=60)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DSantiagoAvila&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=DSantiagoAvila&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantiagoAvila&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSantiagoAvila&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&cache_seconds=60)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=DSantiagoAvila&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
